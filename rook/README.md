@@ -1,5 +1,6 @@
 # Ceph Cluster via Rook Operator v0.7
 
+* Our helper [Makefile](Makefile)
 * [Rook v0.7 Documentation](https://rook.io/docs/rook/v0.7/)
 
 ## Prerequisites
