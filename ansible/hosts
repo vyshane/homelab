@@ -1,0 +1,8 @@
+[masters]
+master1 ansible_host=192.168.1.100
+
+[minions]
+minion1 ansible_host=192.168.1.101
+minion2 ansible_host=192.168.1.102
+minion3 ansible_host=192.168.1.103
+minion4 ansible_host=192.168.1.104
