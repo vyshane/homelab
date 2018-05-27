@@ -4,13 +4,13 @@ install:
 	helm install stable/concourse \
 		--name concourse \
 		--namespace concourse \
-		--set worker.replicas=3
+		--set worker.replicas=2
 
 upgrade:
 	helm upgrade concourse \
 		stable/concourse \
 		--namespace concourse \
-		--set worker.replicas=3
+		--set worker.replicas=2
 
 uninstall:
 	helm delete --purge concourse
