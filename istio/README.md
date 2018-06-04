@@ -1,9 +1,5 @@
 # Istio
 
-## WARNING
-
-The official Istio Helm chart is currently broken. Don't install Istio via this README.
-
 * Our helper [Makefile](Makefile)
 * [Installation instructions](https://istio.io/docs/setup/kubernetes/helm-install.html)
 
