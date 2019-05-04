@@ -1,0 +1,3 @@
+[submodule "kubernetes/kubespray"]
+	path = kubernetes/kubespray
+	url = git@github.com:kubernetes-sigs/kubespray.git
